@@ -1,0 +1,4 @@
+variable,unit,mean,sample size,standard dev.,standard error,95% CI,trend,trend p-value
+ASA,% reflected,29.012,48, 0.228, 0.005, 0.009, 28.710 +  0.012 t, 0.000
+RNET,W m$^{-2}$,72.611,48, 0.470, 0.010, 0.019, 73.179 + -0.023 t, 0.000
+ET,W m$^{-2}$,37.982,48, 0.554, 0.012, 0.023, 38.582 + -0.024 t, 0.000

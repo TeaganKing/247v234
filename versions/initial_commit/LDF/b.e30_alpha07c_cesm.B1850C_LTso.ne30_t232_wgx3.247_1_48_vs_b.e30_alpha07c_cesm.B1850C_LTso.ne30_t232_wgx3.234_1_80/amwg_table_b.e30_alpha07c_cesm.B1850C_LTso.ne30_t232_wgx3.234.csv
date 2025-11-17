@@ -1,0 +1,2 @@
+variable,unit,mean,sample size,standard dev.,standard error,95% CI,trend,trend p-value
+RNET,W m$^{-2}$,72.391,16, 0.435, 0.027, 0.053, 72.587 + -0.023 t, 0.362
